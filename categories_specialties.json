@@ -1,0 +1,251 @@
+{
+    "BEHAVIORAL HEALTH": [
+        {
+            "Name": "BEHAVIORAL HEALTH FACILITY",
+            "Description": "Any general acute hospital, psychiatric hospital, psychiatric health facility, substance abuse recovery hospital, residential treatment center, day treatment "
+        },
+        {
+            "Name": "BEHAVIORAL HEALTH GROUP",
+            "Description": "Licensed behavioral health and substance abuse professionals who work in a group setting in one or more locations providing behavioral health and substance "
+        },
+        {
+            "Name": "LICENSED CLINICAL SOCIAL WORKERS",
+            "Description": "Specialists trained to provide individual therapy, group therapy, diagnosis, referral, and consultation"
+        },
+        {
+            "Name": "MARRIAGE AND FAMILY THERAPISTS",
+            "Description": "A practice specialty that uses counseling and other psychotherapeutic techniques with individuals, couples, families, and groups to treat a variety of life "
+        },
+        {
+            "Name": "PROFESSIONAL COUNSELORS",
+            "Description": "Specialists who provide professional counseling services involving psychotherapy, human development, learning theory,and group dynamics to individuals, "
+        },
+        {
+            "Name": "PSYCHIATRISTS",
+            "Description": "Physicians who have medical training which enables them to understand the complex relationship between emotional illness and other medical illnesses. "
+        },
+        {
+            "Name": "PSYCHOLOGISTS",
+            "Description": "A practice specialty that uses psychotherapeutic techniques with individuals, couples, families and groups to diagnose and treat mental and emotional disorders "
+        }
+    ],
+    "DENTAL PROVIDER": [],
+    "DOCTOR & OTHER HEALTH PROFESSIONALS": [
+        {
+            "Name": "ACUPUNCTURE",
+            "Description": "The component of Chinese medicine that involves the insertion of thin surgical needles into specific anatomic locations to provide a therapeutic benefit."
+        },
+        {
+            "Name": "ALLERGY/IMMUNOLOGY",
+            "Description": "Specialists in the diagnosis and treatment of hypersensitive states resulting from exposure to a particular allergen and diseases of the immune system."
+        },
+        {
+            "Name": "ANESTHESIOLOGY",
+            "Description": "Specialists in the relief of pain during surgery and childbirth, and control of pain due to various causes."
+        },
+        {
+            "Name": "CARDIOLOGY",
+            "Description": ""
+        },
+        {
+            "Name": "CHIROPRACTIC",
+            "Description": "Specialists in the non-drug treatment of musculoskeletal problems, including joint sprains and disk injuries."
+        },
+        {
+            "Name": "COLON/RECTAL SPECIALISTS",
+            "Description": "Specialists in the treatment of disorders of the large intestine and rectum."
+        },
+        {
+            "Name": "CRITICAL CARE MEDICINE",
+            "Description": "Specialists in the care for critically ill patient in intensive care unit."
+        },
+        {
+            "Name": "DERMATOLOGY",
+            "Description": "Specialists in the diagnosis and treatment of diseases of the skin."
+        },
+        {
+            "Name": "DIETITIANS/NUTRITIONISTS",
+            "Description": "Specialists in the areas of nutrition assessment; establishment of priorities, goals, and objectives that meet nutrition needs; nutrition counseling in health and "
+        },
+        {
+            "Name": "EAR NOSE THROAT",
+            "Description": "Specialists in the diagnosis and treatment of diseases and disorders of the ear, nose and throat."
+        },
+        {
+            "Name": "EMERGENCY MEDICINE",
+            "Description": "Specialists in the diagnosis and treatment of diseases that are acute medical or surgical conditions or injuries that require urgent or immediate care (usually in a "
+        },
+        {
+            "Name": "ENDOCRINOLOGY",
+            "Description": "Specialists in the diagnosis and treatment of diseases of the internal glands of the body, including diabetes."
+        },
+        {
+            "Name": "FAMILY/GENERAL PRACTICE, INTERNAL MED",
+            "Description": "Physicians who provide: (1) treatment for members of a family for most common illnesses, (2) general medical care, or (3) diagnosis and and treatment of the "
+        },
+        {
+            "Name": "GASTROENTEROLOGY",
+            "Description": "Specialists in the diagnosis and treatment of diseases and disorders of the digestive system including the stomach, intestines, colon, liver, gallbladder and the "
+        },
+        {
+            "Name": "GERIATRICS (SENIORS)",
+            "Description": "Specialists concerned with the physiological and pathological aspects of the elderly."
+        },
+        {
+            "Name": "HEMATOLOGY(BLOOD DISEASE)",
+            "Description": "Diagnosis and treatment of diseases of blood and blood forming tissue in regard to cancer and/or tumors."
+        },
+        {
+            "Name": "HOLISTIC MEDICINE",
+            "Description": "Specialists in alternative forms of medicine which include naturopaths, herbal medicine, and homeopathy."
+        },
+        {
+            "Name": "INFECTIOUS DISEASES",
+            "Description": "Specialists in the diagnosis and treatment of acute and chronic infections which may or may not be contagious."
+        },
+        {
+            "Name": "NEPHROLOGY (KIDNEY)",
+            "Description": "Specialists in the diagnosis and treatment of diseases of the kidney, including dialysis."
+        },
+        {
+            "Name": "NEUROLOGY(NERVOUS SYSTEM)",
+            "Description": "Specialists in the diagnosis and treatment of the structure, functioning and diseases of the nervous system, including the brain, spinal cord and peripheral "
+        },
+        {
+            "Name": "OBSTETRICS/GYNECOLOGY",
+            "Description": "Specialists in the care of women during pregnancy and childbirth and in the diagnosis and treatment of diseases of the female reproductive organs."
+        },
+        {
+            "Name": "ONCOLOGY (CANCER)",
+            "Description": "Specialists in the diagnosis and treatment of all types of cancer and other benign and malignant tumors."
+        },
+        {
+            "Name": "OPHTHALMOLOGY",
+            "Description": "Vision providers who specialize in the diagnosis and treatment of diseases and disorders of the eye."
+        },
+        {
+            "Name": "ORTHOPEDICS",
+            "Description": "Specialists in the treatment of disorders in joints, muscles, tendons, ligaments, cartilage and related structures."
+        },
+        {
+            "Name": "OT/PT/SPEECH/MASSAGE",
+            "Description": "May include specialists in massage, occupational, physical, and speech therapies."
+        },
+        {
+            "Name": "OTHER",
+            "Description": "Other service providers not listed, such as state agencies."
+        },
+        {
+            "Name": "PAIN MANAGEMENT",
+            "Description": "The process of providing medical care that alleviates or reduces pain."
+        },
+        {
+            "Name": "PEDIATRICS (CHILDREN)",
+            "Description": "Specialists in the diagnosis and treatment of the diseases of infants, children and adolescents."
+        },
+        {
+            "Name": "PHYSICAL MEDICINE/REHAB",
+            "Description": "Specialists in the treatment of disease by physical agents such as heat, cold, light, electricity, manipulation or the use of mechanical devices for the restoration."
+        },
+        {
+            "Name": "PODIATRISTS",
+            "Description": "Specialists in the diagnosis and treatment of lower leg, ankle and foot disorders."
+        },
+        {
+            "Name": "PULMONARY (RESPIRATORY)",
+            "Description": "Specialists in the study of the structure, function and diseases of the lungs."
+        },
+        {
+            "Name": "RHEUMATOLOGY",
+            "Description": "Specialists in the diagnosis and treatment of diseases of the joints including arthritis and auto immune diseases."
+        },
+        {
+            "Name": "SURGERY",
+            "Description": "May include specialists in: Cardiothoracic Surgery, Colon & Rectal Surgery, Cutaneous Micrographic Surgery, Female Pelvic Medicine Reconstructive Surgery, "
+        },
+        {
+            "Name": "UROLOGY",
+            "Description": "Specialists in the diagnosis and treatment of diseases of the urinary tract in both sexes and the genital tract in the male."
+        }
+    ],
+    "HOSPITALS AND FACILITIES": [
+        {
+            "Name": "CLINICS",
+            "Description": "Facilities that provide management and treatment of patients with minor complaints or illnesses. Services may include primary care, dental, family planning "
+        },
+        {
+            "Name": "EXTENDED CARE,HOSPICE,SKILLED NURSING",
+            "Description": "Facilities designed for those who need assistance with day-to-day activities or medical needs (extended care facility), those who require a higher level of "
+        },
+        {
+            "Name": "GENERAL/ACUTE CARE HOSPITAL",
+            "Description": "Institutions offering residential, investigatory, and/or therapeutic care regarded as too complex or specialized for provision as home-care services. Services may "
+        },
+        {
+            "Name": "OTHER",
+            "Description": "Other service providers not listed, such as state agencies."
+        },
+        {
+            "Name": "PHYSICAL MEDICINE/REHAB",
+            "Description": "Specialists in the treatment of disease by physical agents such as heat, cold, light, electricity, manipulation or the use of mechanical devices for the restoration."
+        },
+        {
+            "Name": "RENAL DIALYSIS",
+            "Description": "Specialists in the removal of excess waste and fluids from the kidneys."
+        },
+        {
+            "Name": "SURGICAL CENTERS",
+            "Description": "Facilities that provide for outpatient surgeries"
+        }
+    ],
+    "LAB/PATHOLOGY/RADIOLOGY": [
+        {
+            "Name": "LABORATORIES",
+            "Description": "Full-service laboratories that offer a broad range of clinical and anatomic pathology services including the collection of specimens by venipuncture."
+        },
+        {
+            "Name": "PATHOLOGY",
+            "Description": "Specialists in the branch of medicine concerned with disease, especially its structure and its functional effect on the body."
+        },
+        {
+            "Name": "RADIOLOGY",
+            "Description": "Specialists in the diagnosis and treatment of illnesses and injuries with the use of electromagnetic radiation, ultrasonics, magnetic resonance imaging (MRI), and "
+        }
+    ],
+    "OTHER MEDICAL SERVICES": [
+        {
+            "Name": "AMBULANCE COMPANIES",
+            "Description": "Specialists in the area of transportation services for medical reasons."
+        },
+        {
+            "Name": "DME/MEDICAL/SURGICAL",
+            "Description": ""
+        },
+        {
+            "Name": "HOME HEALTH CARE",
+            "Description": "Agencies which provide services which may include nursing care, hospice services, social work services, speech therapy, occupational therapy and/or physical "
+        },
+        {
+            "Name": "ORTHOTICS/PROSTHETICS",
+            "Description": "Specialists in supports and bracing for weak or in effective joints or muscles (orthotics) or artificial replacements for missing parts (prosthetics)."
+        },
+        {
+            "Name": "OTHER",
+            "Description": "Other service providers not listed, such as state agencies."
+        }
+    ],
+    "URGENT CARE": [
+        {
+            "Name": "RETAIL HEALTH CLINICS",
+            "Description": ""
+        },
+        {
+            "Name": "URGENT CARE CENTERS",
+            "Description": "Facilities that provide management and treatment of patients with minor complaints or illnesses. Services may include primary care, dental, family planning "
+        },
+        {
+            "Name": "WALK IN DOCTORS OFFICE",
+            "Description": ""
+        }
+    ]
+}
