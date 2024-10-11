@@ -180,9 +180,15 @@ sidebar = st.sidebar
 
 heath_plan = sidebar.radio(label='Select health plan', options=['EPO', 'PPO'], index=0)
 category = sidebar.selectbox(label='MedicalCategory', options=list(categories_and_specialties.keys()), index=2)
-specialty = sidebar.selectbox(label='Sub-Specialty', options=[specialty['Name'] for specialty in categories_and_specialties[category]], index=12)
 
-#sidebar.info(categories_and_specialties['category'])
+# This is a ridiculous way of getting at both the value (for the drop down) and the description (for the info box)
+# We should really just pivot the dict
+specialty_and_descriptions = [(specialty['Name'], specialty['Description']) for specialty in categories_and_specialties[category]]
+specialty = sidebar.selectbox(label='Sub-Specialty', options=[specialty[0] for specialty in specialty_and_descriptions])
+specialty_index = [specialty[0] for specialty in specialty_and_descriptions].index(specialty)
+
+# Finally, print an info box with the description
+sidebar.info(specialty_and_descriptions[specialty_index][1])
 
 
 city = sidebar.text_input(label='Zip code', max_chars=5, value='90254')
